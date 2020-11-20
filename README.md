@@ -2,10 +2,10 @@
 > Open this page at [https://conradis.github.io/cambiamoaria/](https://conradis.github.io/cambiamoaria/)
 
 ## Micro:bit setup
-![Aperta](https://github.com/conradis/cambiamoaria/tree/master/pic/A.jpg?raw=true)
+![Aperta](https://raw.githubusercontent.com/conradis/cambiamoaria/master/pic/A.jpg)
 
 
-![Chiusa](https://github.com/conradis/cambiamoaria/tree/master/pic/C.jpg?raw=true)
+![Chiusa](https://raw.githubusercontent.com/conradis/cambiamoaria/master/pic/C.jpg)
 
 ## Use as Extension
 
